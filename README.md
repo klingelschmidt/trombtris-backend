@@ -6,7 +6,9 @@ Server files for the project Trombtris
 - Docker compose
 
 ## Setup
-**Currently only works on linux**
+**Currently set up for linux**
+
+For windows change the nakama:volumes entry in docker-compose.yml according to [this](https://heroiclabs.com/docs/nakama/getting-started/install/docker/#running-nakama)
 
 Run `docker compose up` in the installation folder.
 
